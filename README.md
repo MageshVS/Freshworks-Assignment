@@ -22,21 +22,8 @@ The data store will also support the following non-functional requirements.
 
 
 
-Languages:
-
-Ideally, we would not restrict you from working on a language of your choice. However, it would be preferable if you stick with one of these -
-
-•	NodeJS
-•	Java
-•	Python
-•	GoLang
-•	Ruby
-•	CIC++
-Submission:
-
-Submit a link to the source code, ideally committed to Github.
-
-Code accompanied by thorough unit tests is typically a mark of quality work.
-
-Ideally, your data store will work on most operating systems. Ifthis is not the case, please specify which OSes are supported .
+Steps to Run the Application:
+1. Download and save all the files in same directory
+2. run "python file_engine.py" to execute the application
+3. (or) run "python test_file_engine.py" to run the unit tests
 
